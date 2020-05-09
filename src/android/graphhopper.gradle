@@ -1,0 +1,10 @@
+repositories {
+    mavenCentral()
+    jcenter()
+}
+dependencies {
+    implementation 'com.graphhopper:graphhopper-core:0.13.0'
+    implementation 'com.graphhopper:graphhopper-reader-osm:0.13.0'
+    implementation 'com.graphhopper:graphhopper-api:0.13.0'
+     implementation 'com.google.code.gson:gson:2.8.6'
+}

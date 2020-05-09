@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-graphhopper",
+  "version": "1.0.0-dev",
+  "description": "Cordova graphhopper Plugin",
+  "cordova": {
+    "id": "cordova-plugin-graphhopper",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lixiaofei123/cordova-plugin-graphhopper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lixiaofei123/cordova-plugin-graphhopper/issues"
+  },
+  "keywords": [
+    "cordova",
+    "graphhopper",
+    "cordova-android"
+  ],
+  "author": "geovis",
+  "license": "Apache-2.0"
+}
